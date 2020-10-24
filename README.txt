@@ -20,12 +20,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/amcgee3/Flix_App/blob/main/Flixter.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+ Describe any challenges encountered while building the app.
 
 1. I installed the wrong program while trying to get cocoapods to work on my device
 2. I had to restart several times in the process due to issues with my files.
